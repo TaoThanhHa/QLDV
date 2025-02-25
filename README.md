@@ -8,6 +8,9 @@ Website Quản Lý Đoàn Viên - một nền tảng trực tuyến được thi
 ## Đối tượng người dùng
 - Bí thư chi đoàn của các khoa: Người truy cập và thêm, sửa, xóa thông tin đoàn viên trong lớp
 
+## Sơ đồ chức năng
+![image](https://github.com/user-attachments/assets/a6bd7484-05fc-4914-8f06-ef522bce9770)
+
 ## Tính năng
 - Thêm Đoàn Viên: Dễ dàng thêm thông tin mới về đoàn viên, bao gồm họ tên, ngày sinh, địa chỉ và thông tin liên lạc.
 
